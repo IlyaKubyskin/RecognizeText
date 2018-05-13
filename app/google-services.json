@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "193386353409",
+    "firebase_url": "https://recognizetext-aa805.firebaseio.com",
+    "project_id": "recognizetext-aa805",
+    "storage_bucket": "recognizetext-aa805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193386353409:android:c97311a6d5fbddf6",
+        "android_client_info": {
+          "package_name": "com.example.kubik.recognizetext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193386353409-3c9hb8bklidua3gdtukrlbc7m1hbnv6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kubik.recognizetext",
+            "certificate_hash": "1bbba137e269e312da1b31c223ddfbb8fce8bb33"
+          }
+        },
+        {
+          "client_id": "193386353409-j328lss303vsicn5a9kgc6nd3tjigoi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ZQM1iLv59SuaA2OOOK4n84rSIHNwhzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193386353409-j328lss303vsicn5a9kgc6nd3tjigoi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193386353409:android:b6f2b3251a307487",
+        "android_client_info": {
+          "package_name": "com.example.kubik.recognizetext2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193386353409-dr4op27olc317ggieh1f63j3gv956e19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kubik.recognizetext2",
+            "certificate_hash": "1bbba137e269e312da1b31c223ddfbb8fce8bb33"
+          }
+        },
+        {
+          "client_id": "193386353409-j328lss303vsicn5a9kgc6nd3tjigoi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ZQM1iLv59SuaA2OOOK4n84rSIHNwhzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193386353409-j328lss303vsicn5a9kgc6nd3tjigoi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
